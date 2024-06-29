@@ -1,0 +1,8 @@
+node_modules/
+*.js
+*.log
+.env
+build/
+coverage/
+.DS_Store
+Thumbs.db
